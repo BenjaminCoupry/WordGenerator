@@ -1,0 +1,7 @@
+C:\Users\benja\source\repos\WordGenerator\WordGenerator\bin\Debug\WordGenerator.exe.config
+C:\Users\benja\source\repos\WordGenerator\WordGenerator\bin\Debug\WordGenerator.exe
+C:\Users\benja\source\repos\WordGenerator\WordGenerator\bin\Debug\WordGenerator.pdb
+C:\Users\benja\source\repos\WordGenerator\WordGenerator\obj\Debug\WordGenerator.csprojAssemblyReference.cache
+C:\Users\benja\source\repos\WordGenerator\WordGenerator\obj\Debug\WordGenerator.csproj.CoreCompileInputs.cache
+C:\Users\benja\source\repos\WordGenerator\WordGenerator\obj\Debug\WordGenerator.exe
+C:\Users\benja\source\repos\WordGenerator\WordGenerator\obj\Debug\WordGenerator.pdb
